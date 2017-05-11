@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+👋🏻 hi! My name is Josh and I'm a Software Developer. Primary focus is Ruby on Rails, but always learning new languages. I enjoy working with React and Vue.js as well.
 
-email: agus[at]python.web.id
+email: kidd.josh.343[at]gmail.com

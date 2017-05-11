@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
+title: g33kidd
+description: My Personal blog
+author: Joshua Kidd
+github: https://github.com/g33kidd
+about: Hi! My name is Josh. Primarily I use Ruby on Rails and Node, but I'm always learning things. Recently have enjoyed Crystal, Elixir, and Dart. For front-end I use VueJS and ReactJS.
+disqus_shortname: g33kidd
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -16,20 +16,18 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/g33kidd"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/g33kidd"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/g33kidd"
+    - icon: fa-twitch
+      link: "https://twitch.tv/g33kidd"
 
 share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+  twitter_username: g33kidd
+  # fb_appid: 1749788565247320
 
 urls:
     - text: About Me
@@ -39,7 +37,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "http://g33kidd.com"
 baseurl: ""
 paginate: 20
 per_page: 20
